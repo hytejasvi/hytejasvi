@@ -1,7 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on : backend development using Java and SpringBoot<br>🤝 I’m looking for help with: job search in Germany<br>🌱 I’m currently learning SpringBoot and revisiting data structures <br>💬 Ask me about: life, Technology, something spiritual <br>⚡ Fun fact :  I love exploring new coding frameworks and reading books in my free time
 
-
+## 📄Resume
+[![Resume](https://img.shields.io/badge/View%20Resume-%230A66C2.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/107LZ8JomKeLxdM_aFLwBb1_6aiCx6Bw4/view?usp=sharing)
+<br>
+<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejas_hy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasvi-h-y/) 
 
