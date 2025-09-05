@@ -2,7 +2,7 @@
 🔭 I’m currently working on : backend development using Java and SpringBoot<br>🤝 I’m looking for help with: job search in Germany<br>🌱 I’m currently learning SpringBoot and revisiting data structures <br>💬 Ask me about: life, Technology, something spiritual <br>⚡ Fun fact :  I love exploring new coding frameworks and reading books in my free time
 
 ## 📄Resume
-[![Resume](https://img.shields.io/badge/View%20Resume-%230A66C2.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Ujf2qKq9KLRhea61zTkGE3Hxp-1HAq3S/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume-%230A66C2.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1pAKO-GgdTUwyD_9EgJSr9XT_ilGW1FMc/view?usp=sharing)
 <br>
 <br>
 ## 🌐 Socials:
